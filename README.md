@@ -1,5 +1,5 @@
 # AlgoTrader
-Python notebook containing methods for simulating algorithmic stock trading
+Python notebook containing modules for simulating algorithmic stock trading
 
 Instructions:
 
