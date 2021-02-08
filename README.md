@@ -1,2 +1,2 @@
 # AlgoTrader
-Python class for researching algorithmic stock trading
+Python notebook containing methods for simulating algorithmic stock trading
