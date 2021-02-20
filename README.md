@@ -1,7 +1,7 @@
 # AlgoTrader
 Python notebook containing modules for simulating algorithmic stock trading
 
-##### DISCLAIMER: None of this is financial advice. You should not use anything you learn using this tool in the real market. #####
+****** DISCLAIMER: None of this is financial advice. You should not use anything you learn using this tool in the real market. ******
 
 Steps to run your first simulation:
 
