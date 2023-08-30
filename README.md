@@ -5,7 +5,7 @@ Python notebook containing modules for researching and testing stock trading alg
 
 1. Clone repo
 
-2. Open AlgoTrader_Main in Anaconda (or your preferred software)
+2. Open AlgoTrader_Main.ipynb
 
 3. In the 'Initializing values' module, change the example 'path' value to the path in your file system
 
